@@ -3,5 +3,3 @@ google-generativeai
 PyMuPDF
 python-docx
 pandas
-fitz
-docs
